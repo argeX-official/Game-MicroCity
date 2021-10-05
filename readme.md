@@ -1,4 +1,4 @@
-## **Game**
+## **MicroCity**
 
 <img src="/Images/demo.gif" width="30%"><br/>
 
