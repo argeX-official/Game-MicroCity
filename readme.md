@@ -1,6 +1,6 @@
 ## **Game**
 
-<img src="/Images/demo.gif" width="100%"><br/>
+<img src="/Images/demo.gif" width="30%"><br/>
 
 This project has been developed by [developer][1] and forked directly from [original repo][2].
 
