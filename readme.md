@@ -1,13 +1,23 @@
-# MicroCity
+## **Game**
 
-![Demo](Images/demo.gif)
+<img src="game.svg" width="100%"><br/>
 
-MicroCity is a city simulation game for the [Arduboy miniature game system](https://www.arduboy.com) inspired by SimCity
+This project has been developed by [developer][1] and forked directly from [original repo][2].
 
-## Build instructions
-To compile from source you will need the [Arduboy2 library](https://github.com/MLXXXp/Arduboy2) and the Arduino IDE
+You can read the original README file from [here][3].
 
-Open /Source/MicroCity/MicroCity.ino in the Arduino IDE and hit build
+You can download the .hex file of this project **compiled for watchX** from [here][4].
 
-## Flashing other games
-Note that there is a bug with the Arduboy bootloader when flashing new games. If flashing a new Arduino sketch after having previously flashing MicroCity, then first boot the Arduboy into *flashlight mode* by holding the up button whilst switching on the device.
+There is no original README file released by the developer.
+
+## **License**
+
+This project has been released under the MIT License by it's developer.
+
+The full document can be found in the [LICENSE][5] file.
+
+[1]: Developer
+[2]: Orijinal-Repo
+[3]: Orijinal-Readme
+[4]: watchX-Hex
+[5]: Lisans
